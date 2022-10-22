@@ -13,3 +13,5 @@ Each notebook has two versions (all python scripts are unaffected by this):
 - [Callbacks and checkpoints](https://github.com/kyaiooiayk/Keras-Notes/blob/main/tutorials/GitHub_MD_rendering/Callbacks%20and%20checkpoints.ipynb)
 - [Checkpointing in Keras.ipynb](https://github.com/kyaiooiayk/Keras-Notes/blob/main/tutorials/GitHub_MD_rendering/Checkpointing%20in%20Keras.ipynb)
 - [Cross-validate and tune your Keras model with scikit-learn](https://github.com/kyaiooiayk/Keras-Notes/blob/main/tutorials/GitHub_MD_rendering/Cross-validate%20and%20tune%20your%20Keras%20model%20with%20scikit-learn.ipynb)
+- [Deep learning for binary classification](https://github.com/kyaiooiayk/Keras-Notes/blob/main/tutorials/GitHub_MD_rendering/Deep%20learning%20for%20binary%20classification.ipynb)
+- [Develop your first NN in Keras](https://github.com/kyaiooiayk/Keras-Notes/blob/main/tutorials/GitHub_MD_rendering/Develop%20your%20first%20NN%20in%20Keras.ipynb)
